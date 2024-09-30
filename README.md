@@ -4,6 +4,8 @@ Pour finir le jeu il faut traverser le niveau 1 et activer le bouton tout en hau
 
 Il est possible d'obtenir un boost de niveau lorsque la barre de boost est pleine, pour la remplir il faut récupérer les sphère de bronze et une fois la barre pleine il suffit d'appuyer sur A pour activer le boost, une fois fait le score rapporter par les piève d'or sera multiplier par 2.
 
+Une des ombres dans le niveau 2 est permet de revenir au niveau 1 il suffit de marcher dessus.
+
 ZQSD = Move around
 SpaceBar = Jump
 E = Interact
